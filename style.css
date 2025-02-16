@@ -741,5 +741,6 @@ ul {
 @media screen and (max-width:840px) {
     .footer-grid {
         grid-template-columns: repeat(2, 1fr);
+        margin-right: 6rem;
     }
 }
